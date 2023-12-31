@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.list-container {
+  list-style-type: none;
+}
+.active-btn {
+  outline: none;
+  cursor: pointer;
+  color: #7b8794;
+  font-family: 'Roboto';
+  font-size: 22px;
+  font-weight: 500;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 2px solid #dfe2e5;
+
+  background-color: transparent;
+  padding-left: 16px;
+  padding-right: 54px;
+  padding-bottom: 4px;
+}
+.btn {
+  color: #2563eb;
+  border-bottom: 2px solid #2563eb;
+  padding-bottom: 8px;
+}
